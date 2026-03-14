@@ -83,5 +83,5 @@ text
 
 This project is licensed under the MIT License.
 
-View your app in AI Studio: https://ai.studio/apps/24eb520d-4246-4d3f-b059-a5170de33a9d
+View your app in AI Studio: [https://ai.studio/apps/24eb520d-4246-4d3f-b059-a5170de33a9d](https://ai.studio/apps/33072fa6-3768-48a3-ab5b-99345741ed6d?fullscreenApplet=true)
 
